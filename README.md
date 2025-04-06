@@ -1,5 +1,4 @@
-# Cont.Gym2.0
-<!DOCTYPE guys?>
+# Contador-Gym2.0
 <html lang="es">
 <head>
   <meta charset="UTF-8">
