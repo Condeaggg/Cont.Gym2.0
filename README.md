@@ -119,7 +119,7 @@
     <div class="calendario">
       <h3>Calendario Principal</h3>
       <div class="semana-header">
-        <div>S</div><div>D</div><div>L</div><div>M</div><div>M</div><div>J</div><div>V</div>
+        <div>D</div><div>L</div><div>M</div><div>X</div><div>J</div><div>V</div><div>S</div>
       </div>
       <div class="dias-grid" id="dias"></div>
     </div>
